@@ -1,4 +1,4 @@
-# location_picker
+# location picker
 
 Location picker is use for picking location from just adding the address with the logitude and letitude you can ad this things also offline.
 
